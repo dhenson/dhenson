@@ -8,8 +8,8 @@
 - Fun Facts: I can sometimes be found playing bass guitar or drums with some pretty incredible musicians
 
 ### Connect with me:
-[<img align="left" alt="certifiednetworks.com" width="22px"  src="https://githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img aligh="left" alt="LinkedIn" width="22px" src="https://cdn.jsdeliver.net/npm/simple-icons@v3/icons/linkedin.svg" />[linkedin]
+[<img align="left" alt="certifiednetworks.com" width="22px"  src="https://certifiednetworkscdn.s3.amazonaws.com/icons/CNLogo-world.png" />][website]
+[<img aligh="left" alt="LinkedIn" width="22px" src="https://certifiednetworkscdn.s3.amazonaws.com/icons/LI-Logo.png" />][linkedin]
 
 ### Languages and Tools
 

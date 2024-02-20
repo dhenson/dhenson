@@ -1,10 +1,10 @@
 ### Greetings and best wishes!  I'm Dave Henson, aka [dhenson][website]
 
 ## I'm a Father, Developer, Data Specialist, Teacher and Creative Technologist.
-- I'm currently working on an open source automated billing scheduler for Stripe.
+- I'm currently working on automation, monitoring and security software for a solar farm off grid.
 - I'm currently studying room acoustics and audio engineering best practices.
-- I'm currently reading:  The Brothers Karamazov.  (What an incredible book!)
-- 2023 goals: Join a team of great people working on a great product that I believe in.
+- I'm currently getting refocused on reading:  The Brothers Karamazov.  (What an incredible book!)
+- 2024 goals: Create a series of products I'm proud of that give me some financial freedom.
 - Fun Facts: I can sometimes be found playing bass guitar or drums with some pretty incredible musicians.
 
 ### Connect with me:

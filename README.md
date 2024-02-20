@@ -1,7 +1,7 @@
 ### Greetings and best wishes!  I'm Dave Henson, aka [dhenson][website]
 
 ## I'm a Father, Developer, Data Specialist, Teacher and Creative Technologist.
-- I'm currently working on automation, monitoring and security software for a solar farm off grid.
+- I'm currently working on automation, monitoring and security software for an off grid solar farm named Tarantula Flats.
 - I'm currently studying room acoustics and audio engineering best practices.
 - I'm currently getting refocused on reading:  The Brothers Karamazov.  (What an incredible book!)
 - 2024 goals: Create a series of products I'm proud of that give me some financial freedom.
